@@ -69,10 +69,6 @@ I enjoy solving technical challenges, exploring new technologies, and continuous
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhsarabi&theme=merko&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhsarabi&theme=merko&hide_border=true&layout=compact" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
