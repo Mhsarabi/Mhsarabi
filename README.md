@@ -67,7 +67,6 @@ I enjoy solving technical challenges, exploring new technologies, and continuous
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mhsarabi&theme=merko&hide_border=true&include_all_commits=true&count_private=false" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhsarabi&theme=merko&hide_border=true" height="165" />
 </p>
 
 <p align="center">
@@ -86,8 +85,4 @@ I'm always open to learning, exchanging ideas, and collaborating on interesting 
 
 <p align="center">
   <i>Keep learning. Keep building. Keep improving.</i>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mhsarabi&icon=0&color=0" alt="Profile Views" />
 </p>
