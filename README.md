@@ -66,7 +66,7 @@ I enjoy solving technical challenges, exploring new technologies, and continuous
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhsarabi&theme=merko&hide_border=true&include_all_commits=true&count_private=false" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhsarabi&theme=merko&hide_border=true" height="165" />
 </p>
 
 <p align="center">
